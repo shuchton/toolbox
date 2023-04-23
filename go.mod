@@ -1,3 +1,3 @@
-module github.com/tsawler/toolbox
+module github.com/shuchton/toolbox
 
 go 1.19
